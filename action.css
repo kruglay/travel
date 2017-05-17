@@ -1,0 +1,15 @@
+.action {
+  position: relative;
+  width: 100%;
+  color: #fff;
+}
+
+.action-image {
+  width: 100%;
+}
+
+.action-details {
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
